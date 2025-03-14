@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudesh544
 - 👀 I’m interested in web designing and web developing
-- 🌱 I’m currently learning javasript, python, css, mySQL, PHP and boostap
+- 🌱 I’m currently learning javasript, python, css, mySQL, PHP and React And React native
 - 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me maduranga
 
